@@ -28,6 +28,8 @@ public class TurnStartAttackAbility {
 	 */
 	public ArrayList<Hanakishi> attackUpAbiAll(ArrayList<Hanakishi> baseLhk, ArrayList<Hanakishi> targetLhk) {
 
+		
+		// 花騎士のクローンを作成
 		ArrayList<Hanakishi> newLhk = UM.cloneHanakishiList(targetLhk);
 
 		// 花騎士パーティ全体に対して攻撃バフ処理
