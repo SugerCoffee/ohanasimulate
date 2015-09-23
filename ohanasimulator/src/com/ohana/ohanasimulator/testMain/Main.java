@@ -15,6 +15,7 @@ public class Main {
 		
 		System.out.println(hk.getAttack());
 		
+		//少し編集するテスト
 		
 		
 
