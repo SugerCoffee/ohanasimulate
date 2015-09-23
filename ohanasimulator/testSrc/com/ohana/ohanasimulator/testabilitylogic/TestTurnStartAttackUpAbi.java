@@ -347,9 +347,6 @@ public class TestTurnStartAttackUpAbi {
 
 		// クローン作成のため
 		UtilMethod UM = new UtilMethod();
-		
-		// ターンスタートアビリティクラスをインスタンス化
-		TurnStartAttackAbility ts = new TurnStartAttackAbility();
 
 		// ターゲットの花騎士オブジェクトを生成リストに格納
 
@@ -404,8 +401,7 @@ public class TestTurnStartAttackUpAbi {
 		// ターンスタートアビリティクラスをインスタンス化
 		TurnStartAttackAbility ts = new TurnStartAttackAbility();
 		
-		// ターンを指定
-		CountTurn.setTurnCount(0);
+		
 
 		// ターゲットの花騎士オブジェクトを生成リストに格納
 

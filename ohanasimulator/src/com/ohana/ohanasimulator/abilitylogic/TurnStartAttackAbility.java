@@ -50,6 +50,8 @@ public class TurnStartAttackAbility {
 
 				if (j < targetLhk.size()) {
 					newLhk = this.attackUpAbiOne(i, ran.get(j), baseLhk, newLhk);
+				}else{
+					break;
 				}
 
 			}
