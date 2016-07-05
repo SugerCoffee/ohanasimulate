@@ -1,0 +1,30 @@
+From 10bcf65407f8b9dfa4282fd43f9c57ce1dc078ff Mon Sep 17 00:00:00 2001
+Message-Id: <10bcf65407f8b9dfa4282fd43f9c57ce1dc078ff.1467733770.git.soumaforubuntu@gmail.com>
+From: SugerCoffee <soumaforubuntu@gmail.com>
+Date: Wed, 6 Jul 2016 00:24:15 +0900
+Subject: [PATCH] =?UTF-8?q?=E3=81=A1=E3=82=87=E3=81=A3=E3=81=A8=E3=82=B3?=
+ =?UTF-8?q?=E3=83=A1=E3=83=B3=E3=83=88=E3=82=92=E6=9B=B8=E3=81=8D=E6=8F=9B?=
+ =?UTF-8?q?=E3=81=88?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ src/com/ohana/ohanasimulator/utility/UtilMethod.java | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/src/com/ohana/ohanasimulator/utility/UtilMethod.java b/src/com/ohana/ohanasimulator/utility/UtilMethod.java
+index 7d04551..30739fc 100644
+--- a/src/com/ohana/ohanasimulator/utility/UtilMethod.java
++++ b/src/com/ohana/ohanasimulator/utility/UtilMethod.java
+@@ -7,6 +7,7 @@ import com.ohana.ohanasimulator.charactor.Hanakishi;
+ 
+ /**
+  * 重複しない乱数の生成とか、標準ライブラリに用意されていない なんかいろいろ使えるメソッドを書いていくクラスだよ
++ * ちょっと編集してみるよ
+  *
+  * @author sk
+  *
+-- 
+2.7.4
+
