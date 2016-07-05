@@ -7,7 +7,7 @@ import com.ohana.ohanasimulator.charactor.Hanakishi;
 
 /**
  * 重複しない乱数の生成とか、標準ライブラリに用意されていない なんかいろいろ使えるメソッドを書いていくクラスだよ
- * ちょっと編集してみるよ
+ * やっぱり編集やめるよ
  *
  * @author sk
  *
